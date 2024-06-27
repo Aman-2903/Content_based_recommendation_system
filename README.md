@@ -1,2 +1,2 @@
 # Content_based_recommendation_system
-we build course recommendation sysytem using content based method
+A Machine Learning model that recommend course using Content-based technique.
